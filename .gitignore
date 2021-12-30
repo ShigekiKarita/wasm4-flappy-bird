@@ -3,6 +3,7 @@
 !*.d
 !*.json
 !*.md
+!*.html
 !Makefile
 !.gitignore
 
